@@ -47,7 +47,7 @@ gspread==3.6.0
 gunicorn==19.7.1
 h5py==2.10.0
 httpie==0.9.9
-httplib2==0.17.3
+httplib2==0.18.0
 idna==2.9
 image==1.5.28
 imageio==2.8.0
